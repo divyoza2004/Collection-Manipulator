@@ -4,7 +4,7 @@ print("Welcome! Let's get your student data organized.")
 student = {}
 
 while True:
-    print("\nSelect your mode:")
+    print("\nSelect your mode:") 
     print("1. Add student information")
     print("2. Displays all student information")
     print("3. Update student information") 
