@@ -59,3 +59,10 @@ immutability**, **type casting**, and the **`del`** keyword.
    - Thank the user and display an exit message.
 
 ---
+
+## Output of Code
+<img width="610" height="826" alt="image" src="https://github.com/user-attachments/assets/49c7e3eb-1180-4c3c-be3c-4fe59a57feba" />
+<img width="1528" height="739" alt="image" src="https://github.com/user-attachments/assets/4e5f3b2c-e4cc-44b3-924f-e2881253b2f8" />
+<img width="574" height="570" alt="image" src="https://github.com/user-attachments/assets/87ad708b-43b1-4964-bc3c-f71f0aefb8fc" />
+
+
